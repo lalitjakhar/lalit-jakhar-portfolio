@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(135deg, #fb2b01, #1d6471);
+  background: linear-gradient(135deg, #fb2b01, #89e9cd, #1d6471);
   color: rgba(255, 255, 255, 0.4);
   line-height: 1.7;
   font-size: 16px;
@@ -264,7 +264,7 @@ a:active {
 }
 
 .site-service-item {
-  background: linear-gradient(135deg, #ffa31d, #ef5454);
+  background: linear-gradient(135deg, #313236, #846f60);
   border-radius: 10px;
   padding: 30px;
 }
@@ -474,7 +474,7 @@ a:active {
   width: calc(0% - 60px);
   position: absolute;
   height: 2px;
-  background: linear-gradient(135deg, #ffa31d, #ef5454);
+  background: linear-gradient(135deg, #313236, #846f60);
   -webkit-transition: width 350ms ease-out;
   -o-transition: width 350ms ease-out;
   transition: width 350ms ease-out;
@@ -594,7 +594,7 @@ a:active {
 
 .resume-item {
   padding: 30px;
-  background: linear-gradient(135deg, #ffa31d, #ef5454);
+  background: linear-gradient(135deg, #313236, #846f60);
   border-radius: 10px;
   -webkit-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
@@ -632,7 +632,7 @@ a:active {
   -webkit-box-shadow: 0 1px 2px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0 1px 2px 0px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
-  background: linear-gradient(135deg, #ffa31d, #ef5454);
+  background: linear-gradient(135deg, #313236, #846f60);
 }
 .blog-entry:hover,
 .blog-entry:active,
@@ -670,7 +670,7 @@ a:active {
 
 .form-control {
   border: none !important;
-  background: linear-gradient(135deg, #ffa31d, #ef5454);
+  background: linear-gradient(135deg, #313236, #846f60);
   color: #fff;
   -webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
@@ -729,7 +729,7 @@ a:active {
   display: inline-block;
   width: 60px;
   height: 60px;
-  background: linear-gradient(135deg, #ffa31d, #ef5454);
+  background: linear-gradient(135deg, #313236, #846f60);
   position: relative;
   border-radius: 50%;
   font-size: 22px;
@@ -759,7 +759,7 @@ a:active {
 .block-47 .block-47-quote {
   margin-left: 40px;
   padding: 30px;
-  background: linear-gradient(135deg, #ffa31d, #ef5454);
+  background: linear-gradient(135deg, #313236, #846f60);
   border-radius: 7px;
   position: relative;
   -webkit-box-shadow: 0 2px 30px -2px rgba(0, 0, 0, 0.1);
@@ -773,7 +773,7 @@ a:active {
   left: -15px;
   border-width: 0 20px 20px 0;
   border-style: solid;
-  border-color: transparent #ffa31d transparent transparent;
+  border-color: transparent #313236 transparent transparent;
 }
 .block-47 .block-47-quote .block-47-quote-author {
   font-size: 14px;
